@@ -8,4 +8,4 @@ Sebelum menggunakan API ini, pastikan kamu telah menginstal **Node.js** dan **np
 
 1. **Clone repository** ini ke mesin lokal:
    ```bash
-   git clone https://github.com/username/lesson-api.git
+   git clone https://github.com/mzkki25/quiz-lessons-api-signify.git
