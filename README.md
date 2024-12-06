@@ -1,8 +1,8 @@
 ## Prasyarat
 Sebelum menggunakan API ini, pastikan kamu telah menginstal **Node.js** dan **npm** di sistem kamu.
 
-- Node.js (v14 atau lebih baru)
-- npm (v6 atau lebih baru)
+- Node.js (v20 atau lebih baru)
+- npm (v10 atau lebih baru)
 
 ## Instalasi
 
